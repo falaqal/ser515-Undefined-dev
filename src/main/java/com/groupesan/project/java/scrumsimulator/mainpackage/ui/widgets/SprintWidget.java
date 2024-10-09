@@ -83,7 +83,7 @@ public class SprintWidget extends JPanel implements BaseComponent {
         gbc.gridy = 0;
         gbc.weightx = 0.1;
         add(remainingDaysLabel, gbc);
-
+//
         gbc.gridx = 4;
         gbc.gridy = 0;
         gbc.weightx = 0.1;
