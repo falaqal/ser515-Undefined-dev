@@ -1,0 +1,8 @@
+/home/vedaang/Downloads/ser515-Undefined/build/classes/java/test/com/groupesan/project/java/scrumsimulator/mainpackage/core/ScrumRoleTest.class
+/home/vedaang/Downloads/ser515-Undefined/build/classes/java/test/com/groupesan/project/java/scrumsimulator/mainpackage/core/UserTest.class
+/home/vedaang/Downloads/ser515-Undefined/build/classes/java/test/com/groupesan/project/java/scrumsimulator/mainpackage/state/SimulationStateTest.class
+/home/vedaang/Downloads/ser515-Undefined/build/classes/java/test/com/groupesan/project/java/scrumsimulator/mainpackage/state/UserStoryStateTest.class
+/home/vedaang/Downloads/ser515-Undefined/build/classes/java/test/com/groupesan/project/java/scrumsimulator/mainpackage/impl/ScrumRoleFactoryTest.class
+/home/vedaang/Downloads/ser515-Undefined/build/classes/java/test/com/groupesan/project/java/scrumsimulator/mainpackage/impl/UserStoryTest.class
+/home/vedaang/Downloads/ser515-Undefined/build/classes/java/test/com/groupesan/project/java/scrumsimulator/mainpackage/ui/panels/SimulationPaneTest.class
+/home/vedaang/Downloads/ser515-Undefined/build/classes/java/test/com/groupesan/project/java/scrumsimulator/mainpackage/ui/panels/DemoPaneTest.class

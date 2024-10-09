@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.groupesan.project.java.scrumsimulator.mainpackage.core.ScrumRoleTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-10-01T23:39:57" hostname="archlinux" time="0.113">
+  <properties/>
+  <testcase name="testRoleRegistered()" classname="com.groupesan.project.java.scrumsimulator.mainpackage.core.ScrumRoleTest" time="0.083"/>
+  <testcase name="testToString()" classname="com.groupesan.project.java.scrumsimulator.mainpackage.core.ScrumRoleTest" time="0.014"/>
+  <testcase name="testRoleUnregistered1()" classname="com.groupesan.project.java.scrumsimulator.mainpackage.core.ScrumRoleTest" time="0.003"/>
+  <testcase name="testRoleUnregistered2()" classname="com.groupesan.project.java.scrumsimulator.mainpackage.core.ScrumRoleTest" time="0.004"/>
+  <testcase name="testEquals()" classname="com.groupesan.project.java.scrumsimulator.mainpackage.core.ScrumRoleTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

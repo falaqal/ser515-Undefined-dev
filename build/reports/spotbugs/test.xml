@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="4.8.0" sequence="0" timestamp="1727825998412" analysisTimestamp="1727825998462" release="0.1">
+  <Project projectName="ser515-Undefined (spotbugsTest)">
+    <Jar>/home/vedaang/Downloads/ser515-Undefined/build/classes/java/test/com/groupesan/project/java/scrumsimulator/mainpackage/core/ScrumRoleTest.class</Jar>
+    <Jar>/home/vedaang/Downloads/ser515-Undefined/build/classes/java/test/com/groupesan/project/java/scrumsimulator/mainpackage/core/UserTest.class</Jar>
+    <Jar>/home/vedaang/Downloads/ser515-Undefined/build/classes/java/test/com/groupesan/project/java/scrumsimulator/mainpackage/state/SimulationStateTest.class</Jar>
+    <Jar>/home/vedaang/Downloads/ser515-Undefined/build/classes/java/test/com/groupesan/project/java/scrumsimulator/mainpackage/state/UserStoryStateTest.class</Jar>
+    <Jar>/home/vedaang/Downloads/ser515-Undefined/build/classes/java/test/com/groupesan/project/java/scrumsimulator/mainpackage/impl/ScrumRoleFactoryTest.class</Jar>
+    <Jar>/home/vedaang/Downloads/ser515-Undefined/build/classes/java/test/com/groupesan/project/java/scrumsimulator/mainpackage/impl/UserStoryTest.class</Jar>
+    <Jar>/home/vedaang/Downloads/ser515-Undefined/build/classes/java/test/com/groupesan/project/java/scrumsimulator/mainpackage/ui/panels/SimulationPaneTest.class</Jar>
+    <Jar>/home/vedaang/Downloads/ser515-Undefined/build/classes/java/test/com/groupesan/project/java/scrumsimulator/mainpackage/ui/panels/DemoPaneTest.class</Jar>
+    <AuxClasspathEntry>/home/vedaang/Downloads/ser515-Undefined/build/classes/java/main</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/vedaang/Downloads/ser515-Undefined/build/resources/main</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/vedaang/.gradle/caches/modules-2/files-2.1/org.json/json/20230618/1ae16df7d556d02713e241086f878399e99260d6/json-20230618.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/vedaang/.gradle/caches/modules-2/files-2.1/com.formdev/flatlaf/3.2.5/a180d2525801750f8be57a1fae71181593c9bb36/flatlaf-3.2.5.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/vedaang/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.12.5/52d929d5bb21d0186fe24c09624cc3ee4bafc3b3/jackson-annotations-2.12.5.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/vedaang/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.12.5/725e364cc71b80e60fa450bd06d75cdea7fb2d59/jackson-core-2.12.5.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/vedaang/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.12.5/b064cf057f23d3d35390328c5030847efeffedde/jackson-databind-2.12.5.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/vedaang/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.13.0/b7263237aa89c1f99b327197c41d0669707a462e/commons-lang3-3.13.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/vedaang/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.7.0/84e309fbf21d857aac079a3c1fffd84284e1114d/junit-platform-commons-1.7.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/vedaang/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.7.0/b25f3815c4c1860a73041e733a14a0379d00c4d5/junit-jupiter-api-5.7.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/vedaang/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.1.0/fc9dff4bb36d627bdc553de77e1f17efd790876c/apiguardian-api-1.1.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/vedaang/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.2.0/28c11eb91f9b6d8e200631d46e20a7f407f2a046/opentest4j-1.2.0.jar</AuxClasspathEntry>
+    <SrcDir>/home/vedaang/Downloads/ser515-Undefined/src/test/resources</SrcDir>
+    <SrcDir>/home/vedaang/Downloads/ser515-Undefined/src/test/java</SrcDir>
+    <Plugin id="com.h3xstream.findsecbugs" enabled="true"/>
+  </Project>
+  <Errors errors="0" missingClasses="2">
+    <MissingClass>execute</MissingClass>
+    <MissingClass>makeConcatWithConstants</MissingClass>
+  </Errors>
+  <FindBugsSummary timestamp="Tue, 1 Oct 2024 16:39:58 -0700" total_classes="8" referenced_classes="57" total_bugs="0" total_size="206" num_packages="4" java_version="22.0.2" vm_version="22.0.2+9-70" cpu_seconds="6.73" clock_seconds="3.54" peak_mbytes="242.88" alloc_mbytes="512.00" gc_seconds="0.09">
+    <FileStats path="com/groupesan/project/java/scrumsimulator/mainpackage/core/ScrumRoleTest.java" bugCount="0" size="39"/>
+    <FileStats path="com/groupesan/project/java/scrumsimulator/mainpackage/core/UserTest.java" bugCount="0" size="30"/>
+    <FileStats path="com/groupesan/project/java/scrumsimulator/mainpackage/impl/ScrumRoleFactoryTest.java" bugCount="0" size="24"/>
+    <FileStats path="com/groupesan/project/java/scrumsimulator/mainpackage/impl/UserStoryTest.java" bugCount="0" size="27"/>
+    <FileStats path="com/groupesan/project/java/scrumsimulator/mainpackage/state/SimulationStateTest.java" bugCount="0" size="21"/>
+    <FileStats path="com/groupesan/project/java/scrumsimulator/mainpackage/state/UserStoryStateTest.java" bugCount="0" size="45"/>
+    <FileStats path="com/groupesan/project/java/scrumsimulator/mainpackage/ui/panels/DemoPaneTest.java" bugCount="0" size="10"/>
+    <FileStats path="com/groupesan/project/java/scrumsimulator/mainpackage/ui/panels/SimulationPaneTest.java" bugCount="0" size="10"/>
+    <PackageStats package="com.groupesan.project.java.scrumsimulator.mainpackage.core" total_bugs="0" total_types="2" total_size="69">
+      <ClassStats class="com.groupesan.project.java.scrumsimulator.mainpackage.core.ScrumRoleTest" sourceFile="ScrumRoleTest.java" interface="false" size="39" bugs="0"/>
+      <ClassStats class="com.groupesan.project.java.scrumsimulator.mainpackage.core.UserTest" sourceFile="UserTest.java" interface="false" size="30" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.groupesan.project.java.scrumsimulator.mainpackage.impl" total_bugs="0" total_types="2" total_size="51">
+      <ClassStats class="com.groupesan.project.java.scrumsimulator.mainpackage.impl.ScrumRoleFactoryTest" sourceFile="ScrumRoleFactoryTest.java" interface="false" size="24" bugs="0"/>
+      <ClassStats class="com.groupesan.project.java.scrumsimulator.mainpackage.impl.UserStoryTest" sourceFile="UserStoryTest.java" interface="false" size="27" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.groupesan.project.java.scrumsimulator.mainpackage.state" total_bugs="0" total_types="2" total_size="66">
+      <ClassStats class="com.groupesan.project.java.scrumsimulator.mainpackage.state.SimulationStateTest" sourceFile="SimulationStateTest.java" interface="false" size="21" bugs="0"/>
+      <ClassStats class="com.groupesan.project.java.scrumsimulator.mainpackage.state.UserStoryStateTest" sourceFile="UserStoryStateTest.java" interface="false" size="45" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.groupesan.project.java.scrumsimulator.mainpackage.ui.panels" total_bugs="0" total_types="2" total_size="20">
+      <ClassStats class="com.groupesan.project.java.scrumsimulator.mainpackage.ui.panels.DemoPaneTest" sourceFile="DemoPaneTest.java" interface="false" size="10" bugs="0"/>
+      <ClassStats class="com.groupesan.project.java.scrumsimulator.mainpackage.ui.panels.SimulationPaneTest" sourceFile="SimulationPaneTest.java" interface="false" size="10" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="607" invocations="581" avgMicrosecondsPerInvocation="1044" maxMicrosecondsPerInvocation="42841" standardDeviationMicrosecondsPerInvocation="2696"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="153" invocations="57" avgMicrosecondsPerInvocation="2699" maxMicrosecondsPerInvocation="23510" standardDeviationMicrosecondsPerInvocation="5144"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="146" invocations="57" avgMicrosecondsPerInvocation="2565" maxMicrosecondsPerInvocation="28509" standardDeviationMicrosecondsPerInvocation="5153"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="126" invocations="167" avgMicrosecondsPerInvocation="756" maxMicrosecondsPerInvocation="10837" standardDeviationMicrosecondsPerInvocation="1530"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="113" invocations="585" avgMicrosecondsPerInvocation="193" maxMicrosecondsPerInvocation="8023" standardDeviationMicrosecondsPerInvocation="557"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="80" invocations="100" avgMicrosecondsPerInvocation="805" maxMicrosecondsPerInvocation="15411" standardDeviationMicrosecondsPerInvocation="2138"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="68" invocations="539" avgMicrosecondsPerInvocation="127" maxMicrosecondsPerInvocation="3847" standardDeviationMicrosecondsPerInvocation="313"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="68" invocations="54" avgMicrosecondsPerInvocation="1266" maxMicrosecondsPerInvocation="60449" standardDeviationMicrosecondsPerInvocation="8131"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="59" invocations="57" avgMicrosecondsPerInvocation="1037" maxMicrosecondsPerInvocation="10521" standardDeviationMicrosecondsPerInvocation="2134"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="58" invocations="57" avgMicrosecondsPerInvocation="1018" maxMicrosecondsPerInvocation="6614" standardDeviationMicrosecondsPerInvocation="1714"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CalledMethods" totalMilliseconds="46" invocations="57" avgMicrosecondsPerInvocation="819" maxMicrosecondsPerInvocation="7415" standardDeviationMicrosecondsPerInvocation="1572"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildStringPassthruGraph" totalMilliseconds="45" invocations="57" avgMicrosecondsPerInvocation="803" maxMicrosecondsPerInvocation="9699" standardDeviationMicrosecondsPerInvocation="1898"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="42" invocations="57" avgMicrosecondsPerInvocation="749" maxMicrosecondsPerInvocation="7529" standardDeviationMicrosecondsPerInvocation="1596"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="42" invocations="56" avgMicrosecondsPerInvocation="750" maxMicrosecondsPerInvocation="14402" standardDeviationMicrosecondsPerInvocation="2172"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="38" invocations="62" avgMicrosecondsPerInvocation="622" maxMicrosecondsPerInvocation="10522" standardDeviationMicrosecondsPerInvocation="1644"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="36" invocations="54" avgMicrosecondsPerInvocation="667" maxMicrosecondsPerInvocation="15889" standardDeviationMicrosecondsPerInvocation="2175"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.ExplicitSerialization" totalMilliseconds="31" invocations="57" avgMicrosecondsPerInvocation="554" maxMicrosecondsPerInvocation="24983" standardDeviationMicrosecondsPerInvocation="3360"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.taintanalysis.TaintDataflowEngine" totalMilliseconds="31" invocations="54" avgMicrosecondsPerInvocation="582" maxMicrosecondsPerInvocation="7760" standardDeviationMicrosecondsPerInvocation="1142"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.DontReusePublicIdentifiers" totalMilliseconds="31" invocations="8" avgMicrosecondsPerInvocation="3930" maxMicrosecondsPerInvocation="29783" standardDeviationMicrosecondsPerInvocation="9772"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="31" invocations="57" avgMicrosecondsPerInvocation="549" maxMicrosecondsPerInvocation="6842" standardDeviationMicrosecondsPerInvocation="1111"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.EqualsOperandShouldHaveClassCompatibleWithThis" totalMilliseconds="30" invocations="57" avgMicrosecondsPerInvocation="534" maxMicrosecondsPerInvocation="11356" standardDeviationMicrosecondsPerInvocation="1676"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="28" invocations="54" avgMicrosecondsPerInvocation="535" maxMicrosecondsPerInvocation="6262" standardDeviationMicrosecondsPerInvocation="879"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="28" invocations="54" avgMicrosecondsPerInvocation="526" maxMicrosecondsPerInvocation="6132" standardDeviationMicrosecondsPerInvocation="824"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="26" invocations="54" avgMicrosecondsPerInvocation="494" maxMicrosecondsPerInvocation="3786" standardDeviationMicrosecondsPerInvocation="787"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>
